@@ -4350,7 +4350,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'ilaingar-india-magazine-feb.pdf',
+    value: 'ilaingar-india-magazine.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
